@@ -6,6 +6,6 @@ func main() {
 	fmt.Println("first commit")
 }
 
-func Sum(a, b int) int {
-	return a + b
+func Multy(a, b int) int {
+	return a * b
 }
